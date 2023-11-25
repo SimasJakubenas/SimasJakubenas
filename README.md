@@ -46,13 +46,13 @@
 > <summary>Click to find out more</summary>
 > <br>
 > The user takes the role of 'Traveler' and is on a quest to hunt down Duriel. This game have classic RPG style game features like:
-- A hero with improvable statistics
-- A map zone to navigate where one encounters enemies
-- A battle sequence which alloes the player to attack or use a health potion
-- A chance to aquire items
-- A boss fight that concludes the game
-- vendor (to buy and sell items)
-- A stash to observe the aquired items that allows the player to equip weapon and reorganise the order of items in the stash
+> A hero with improvable statistics
+> A map zone to navigate where one encounters enemies
+> A battle sequence which alloes the player to attack or use a health potion
+> A chance to aquire items
+> A boss fight that concludes the game
+> Vendor (to buy and sell items)
+> A stash to observe the aquired items that allows the player to equip weapon and reorganise the order of items in the stash
 > </details>
 >
 > Go to Tal Rasha's [Deployed Page](https://tal-rasha-rpg-6583f66e1480.herokuapp.com/)<br>
