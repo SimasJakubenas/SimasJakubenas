@@ -47,7 +47,8 @@
 > #### Other
 >
 > ![_alternative_](https://img.shields.io/badge/JUPYTER-F37626?style=flat&logo=jupyter&logoColor=FFFFFF)
-![_alternative_](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF)<hr>
+![_alternative_](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)<hr>
 >
 >> ## My Portfolio Projects
 >
