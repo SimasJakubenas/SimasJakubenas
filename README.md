@@ -44,11 +44,16 @@
 > ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
 ![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=visualstudiocode&logoColor=FFFFFF)<hr>
 >
+> #### Other
+>
+> ![_alternative_](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
+>
 >> ## My Portfolio Projects
 >
 >> ### Predicting Heart disease (ungraded) - ML model - June 2024
 >
-> <a href="https://github.com/SimasJakubenas/cd-prediction-pp5"><img width="500px" height="300px" src="https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png"></a>
+<a href="https://github.com/SimasJakubenas/cd-prediction-pp5"><img width="900px" height="450px" src="https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png"></a>
 >
 > This is my 5th Portfolio Project submission as part of my specialization module 'Predictive Analytics' for Code Institute's Diploma in Full Stack Development course.
 > This project is an attempt to create a Machine Learning model to predict Heart Diseasee for a fictional client.
