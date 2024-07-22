@@ -127,7 +127,7 @@
 > Back in September 2023 I had the priviledge of taking in a Hackathon for sustainable solution - Tech for a Greener Tomorrow. It was an absolute please to be part of #GreenerToday team - group of coplete strangers that came together to form a well-functioning team and created the best possible project in the time available utilising our collective skills to ur advantage.<br>
 > Power Up Point is a site assisting electric vehicle users in locating a suitable charging point.
 >
-<iframe src="https://api.eu.badgr.io/public/assertions/8WllUWIYQcmTuBvNq3IEoQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=sjakubenas%40gmail.com" title="Badge: September 2023 Hybrid Hackathon: 1st Place" style="width: 330px; height: 191px; border: 0px;"></iframe>
-
+<img src="https://api.eu.badgr.io/public/assertions/8WllUWIYQcmTuBvNq3IEoQ?identity__email=sjakubenas%40gmail.com">
+>
 > Go to Power Up Point [Deployed Page](https://stef-cruz.github.io/power-up-point/index.html)<br>
 > Go to [Repository](https://github.com/stef-cruz/power-up-point)<hr>
