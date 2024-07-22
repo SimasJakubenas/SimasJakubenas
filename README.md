@@ -127,7 +127,7 @@
 > Back in September 2023 I had the priviledge of taking in a Hackathon for sustainable solution - Tech for a Greener Tomorrow. It was an absolute please to be part of #GreenerToday team - group of coplete strangers that came together to form a well-functioning team and created the best possible project in the time available utilising our collective skills to ur advantage.<br>
 > Power Up Point is a site assisting electric vehicle users in locating a suitable charging point.
 >
-> ![image](https://api.eu.badgr.io/public/assertions/8WllUWIYQcmTuBvNq3IEoQ?identity__email=sjakubenas%40gmail.com)
+><blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/8WllUWIYQcmTuBvNq3IEoQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/8WllUWIYQcmTuBvNq3IEoQ/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Simas Jakubenas</span></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script></blockquote>
 >
 > Go to Power Up Point [Deployed Page](https://stef-cruz.github.io/power-up-point/index.html)<br>
 > Go to [Repository](https://github.com/stef-cruz/power-up-point)<hr>
