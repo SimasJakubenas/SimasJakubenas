@@ -53,7 +53,7 @@
 >
 >> ### Predicting Heart disease (ungraded) - ML model - June 2024
 >
-> ![image](https://github.com/user-attachments/assets/bc3e771f-4835-4efa-b92c-a8ab44ccff03)
+> ![image](https://github.com/user-attachments/assets/e88c8919-b208-4c7d-9751-f0f50980bd0d)
 >
 > This is my 5th Portfolio Project submission as part of my specialization module 'Predictive Analytics' for Code Institute's Diploma in Full Stack Development course.
 > This project is an attempt to create a Machine Learning model to predict Heart Diseasee for a fictional client.
