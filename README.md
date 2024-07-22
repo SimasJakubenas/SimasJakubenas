@@ -41,13 +41,13 @@
 >
 > #### Hosting
 >
-> ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
-![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=visualstudiocode&logoColor=FFFFFF)<hr>
+> ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=heroku&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=githubpages&logoColor=FFFFFF)
 >
 > #### Other
 >
-> ![_alternative_](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
-![_alternative_](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
+> ![_alternative_](https://img.shields.io/badge/JUPYTER-F37626?style=flat&logo=jupyter&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF)<hr>
 >
 >> ## My Portfolio Projects
 >
