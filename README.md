@@ -36,7 +36,26 @@
 >
 >> ## My Portfolio Projects
 >
-> ### Tal Rasha (ungraded) - Python - November 2023
+>> ### Predicting Heart disease (ungraded) - ML model - June 2024
+>
+> ![image](https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png)
+>
+> This is my 5th Portfolio Project submission as part of my specialization module 'Predictive Analytics' for Code Institute's Diploma in Full Stack Development course.
+> This project is an attempt to create a Machine Learning model to predict Heart Diseasee for a fictional client.
+>
+> Go to live [dashboard](https://pp5-heart-disease-predict-8ca5a8fcd037.herokuapp.com/)<br>
+> Go to [Repository](https://github.com/SimasJakubenas/cd-prediction-pp5)
+>
+> ### Movie Roulette (Merit) - Django - April 2024
+>
+> ![image](https://github.com/SimasJakubenas/movie-roulette/assets/138577499/ad305a9e-7228-4c4b-9aae-aa2dd5ed7714)
+>
+> Get latest movie and TV show releases, store them to your lists and use an exclusive 'roulette' feature to select your next watch for you. Created as my portfolio project 4.
+>
+> Go to Movie Roulette [Deployed Page](https://movie-roulette-828048507284.herokuapp.com/)<br>
+> Go to [Repository](https://github.com/SimasJakubenas/movie-roulette)
+>
+> ### Tal Rasha (Merit) - Python - November 2023
 >
 > ![image](https://github.com/SimasJakubenas/rpg-game-pp3/assets/138577499/8ddb2b0e-50f0-408b-93a6-fc78b4818721)
 >
