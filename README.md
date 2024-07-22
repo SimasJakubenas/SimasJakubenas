@@ -53,7 +53,7 @@
 >
 >> ### Predicting Heart disease (ungraded) - ML model - June 2024
 >
-<a href="https://github.com/SimasJakubenas/cd-prediction-pp5"><img width="900px" height="450px" src="https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png"></a>
+> ![image](https://github.com/user-attachments/assets/bc3e771f-4835-4efa-b92c-a8ab44ccff03)
 >
 > This is my 5th Portfolio Project submission as part of my specialization module 'Predictive Analytics' for Code Institute's Diploma in Full Stack Development course.
 > This project is an attempt to create a Machine Learning model to predict Heart Diseasee for a fictional client.
