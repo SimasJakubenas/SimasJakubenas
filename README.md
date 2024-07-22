@@ -10,40 +10,50 @@
 > 
 > I'm very excited to embark on this journey into software development and looking forward to expanding my knowledge in the field indefinately. Creating product that are valuable to the user/customer brings me an immense joy.
 > 
-> To get in touch, please connect with me on [LinkedIn](www.linkedin.com/in/simasjakubenas) <hr>
+> To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/simasjakubenas/)<hr>
 >
 >> ## Tech Stack
 >
 > #### Programming Languages
 >
-> ![_alternative_](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=JavaScript&logoColor=F7DF1E) ![_alternative_](https://img.shields.io/badge/PYTHON-ffd43b?style=flat&logo=Python&logoColor=3776AB&labelColor=ffd43b)
+> ![_alternative_](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=JavaScript&logoColor=F7DF1E)
+![_alternative_](https://img.shields.io/badge/PYTHON-ffd43b?style=flat&logo=Python&logoColor=3776AB&labelColor=ffd43b)
 >
 > #### Frameworks & Libraries
 >
-> ![_alternative_](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/Flast-000000?style=flat&logo=Flask&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=85b604) ![_alternative_](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=85b604) ![_alternative_](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=fontawesome&logoColor=FFFFFF)
+> ![_alternative_](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/Flast-000000?style=flat&logo=Flask&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=85b604)
+![_alternative_](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=85b604)
+![_alternative_](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=fontawesome&logoColor=FFFFFF)
 >
 > #### Version Control
 >
-> ![_alternative_](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=FFFFFF)
+> ![_alternative_](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=FFFFFF)
 >
 > #### IDE's
 >
-> ![_alternative_](https://img.shields.io/badge/VS_CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/GITPOD-000000?style=flat&logo=gitpod&logoColor=FFAE33)
+> ![_alternative_](https://img.shields.io/badge/VS_CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/GITPOD-000000?style=flat&logo=gitpod&logoColor=FFAE33)
 >
 > #### Hosting
 >
-> ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=visualstudiocode&logoColor=FFFFFF) ![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=visualstudiocode&logoColor=FFFFFF) <hr>
+> ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=visualstudiocode&logoColor=FFFFFF)
+![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=visualstudiocode&logoColor=FFFFFF)<hr>
 >
 >> ## My Portfolio Projects
 >
 >> ### Predicting Heart disease (ungraded) - ML model - June 2024
 >
-> ![image](https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png)
+> <a href="https://github.com/SimasJakubenas/cd-prediction-pp5"><img width="500px" height="300px" src="https://github.com/SimasJakubenas/cd-prediction-pp5/static/images/readme/responsive.png"></a>
 >
 > This is my 5th Portfolio Project submission as part of my specialization module 'Predictive Analytics' for Code Institute's Diploma in Full Stack Development course.
 > This project is an attempt to create a Machine Learning model to predict Heart Diseasee for a fictional client.
 >
-> Go to live [dashboard](https://pp5-heart-disease-predict-8ca5a8fcd037.herokuapp.com/)<br>
+> Go to live [Dashboard](https://pp5-heart-disease-predict-8ca5a8fcd037.herokuapp.com/)<br>
 > Go to [Repository](https://github.com/SimasJakubenas/cd-prediction-pp5)
 >
 > ### Movie Roulette (Merit) - Django - April 2024
