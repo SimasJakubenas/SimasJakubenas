@@ -46,7 +46,7 @@
 > ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=heroku&logoColor=FFFFFF)
 ![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=githubpages&logoColor=FFFFFF)
 >
->> #### Data Analytics
+> #### Data Analytics
 >
 > ![_alternative_](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas)
 ![_alternative_](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=%234dabcf)
@@ -55,18 +55,17 @@
 ![_alternative_](https://img.shields.io/badge/PyTorch-3e0d71?style=flat&logo=pytorch&logoColor=%23EE4C2C)
 ![_alternative_](https://img.shields.io/badge/scikit--learn-3499cd?style=flat&logo=scikitlearn&logoColor=%23F7931E)
 >
->
 > #### Other
 >
 > ![_alternative_](https://img.shields.io/badge/JUPYTER-F37626?style=flat&logo=jupyter&logoColor=FFFFFF)
 ![_alternative_](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF)
 ![_alternative_](https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)<hr>
 >
->> ## My Portfolio Projects
+> ## My Portfolio Projects
 >
->>> ### Reinforcement Learning poker assistant  - June 2024
+> ### Reinforcement Learning poker assistant  - June 2024
 >
-> ![image](https://github.com/SimasJakubenas/poker-assistant-rl/blob/main/src/images/game_view.PNG)
+> ![image](https://github.com/SimasJakubenas/poker-assistant-rl/blob/main/src/images/readme/page_2.PNG)
 >
 > This is my Final Project for the python **Programming and Introduction to AI** studies with **CodeAcademy**.
 > With this project I will be attempting to create Deep Q-Learning model that trains agents to play a 6 handed no-limit Texas Holdem poker..
