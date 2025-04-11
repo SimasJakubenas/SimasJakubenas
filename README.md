@@ -4,11 +4,13 @@
 > 
 >> ## About Me
 >
-> Hi, my name is Simas Jakubenas and I'm currently undertaking a diploma in Full Stack Software Development with Code Institute. I love working with HTML, CSS, JavaScript and python. I envision my work through the lense of UX design and harness the power of Design Thinking and Agile methodologies to plan and develop projecs.
+> Hi, my name is Simas Jakubenas and I've acquired a diploma in Full Stack Software Development with Code Institute. I love working with HTML, CSS, JavaScript and python. I envision my work through the lense of UX design and harness the power of Design Thinking and Agile methodologies to plan and develop projecs.
+>
+> Furthermore I've succesfully completed Artificial Intelligence and Python Programming course with CodeAcademy (LT). I've improved on my Python programming skills and strenghten my knowledge of such processes: data acquisition, data proccessing and data visualization. I've learned the use and practical application of Machine Learning models in solving real life problems.
 > 
 > Coming from a manager position in retail I'm bringing a profound understanding of customer needs, an ability to work under pressure and the experience of managing and working in a team.
 > 
-> I'm very excited to embark on this journey into software development and looking forward to expanding my knowledge in the field indefinately. Creating product that are valuable to the user/customer brings me an immense joy.
+> I'm very excited to embark on this journey as a junior data analyst and looking forward to expanding my knowledge in the field indefinately.
 > 
 > To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/simasjakubenas/)<hr>
 >
@@ -44,6 +46,16 @@
 > ![_alternative_](https://img.shields.io/badge/HEROKU-430098?style=flat&logo=heroku&logoColor=FFFFFF)
 ![_alternative_](https://img.shields.io/badge/GITHUB_PAGES-222222?style=flat&logo=githubpages&logoColor=FFFFFF)
 >
+>> #### Data Analytics
+>
+> ![_alternative_](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas)
+![_alternative_](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=%234dabcf)
+![_alternative_](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=%234dabcf)
+![_alternative_](https://img.shields.io/badge/FensorFlow-FFFFFF?style=flat&logo=tensorflow&logoColor=%23FF6F00)
+![_alternative_](https://img.shields.io/badge/PyTorch-3e0d71?style=flat&logo=pytorch&logoColor=%23EE4C2C)
+![_alternative_](https://img.shields.io/badge/scikit--learn-3499cd?style=flat&logo=scikitlearn&logoColor=%23F7931E)
+>
+>
 > #### Other
 >
 > ![_alternative_](https://img.shields.io/badge/JUPYTER-F37626?style=flat&logo=jupyter&logoColor=FFFFFF)
@@ -52,7 +64,17 @@
 >
 >> ## My Portfolio Projects
 >
->> ### Predicting Heart disease (ungraded) - ML model - June 2024
+>>> ### Reinforcement Learning poker assistant  - June 2024
+>
+> ![image](https://github.com/SimasJakubenas/poker-assistant-rl/blob/main/src/images/game_view.PNG)
+>
+> This is my Final Project for the python **Programming and Introduction to AI** studies with **CodeAcademy**.
+> With this project I will be attempting to create Deep Q-Learning model that trains agents to play a 6 handed no-limit Texas Holdem poker..
+>
+> Go to live [Dashboard](https://poker-rl.streamlit.app/)<br>
+> Go to [Repository](https://github.com/SimasJakubenas/poker-assistant-rl)
+>
+>> ### Predicting Heart disease (Pass) - ML model - June 2024
 >
 > ![image](https://github.com/user-attachments/assets/e88c8919-b208-4c7d-9751-f0f50980bd0d)
 >
